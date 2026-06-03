@@ -14,24 +14,43 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage / Hero Banner
-![Homepage](screenshots/homepage.png)
+<p align="center">
+  <img src="screenshots/Homepage.png" alt="Homepage" width="700"/>
+</p>
 
-### 🛍️ Product Catalog / Shop
-![Shop](screenshots/shop.png)
+### 🛒 Weekly Specials
+<p align="center">
+  <img src="screenshots/WeeklySpecials.png" alt="Weekly Specials" width="700"/>
+</p>
 
-### 🛒 Shopping Cart
-![Cart](screenshots/cart.png)
+### 🛍️ All Products
+<p align="center">
+  <img src="screenshots/All_Products.png" alt="All Products" width="700"/>
+  <img src="screenshots/DailyGroceries.png" alt="Daily Groceries" width="700"/>
+  <img src="screenshots/DailyGroceries2.png" alt="Daily Groceries 2" width="700"/>
+</p>
 
-### 📦 Suppliers Table
-![Suppliers](screenshots/suppliers.png)
+### 🧺 Shopping Cart
+<p align="center">
+  <img src="screenshots/Shopping_Cart.png" alt="Shopping Cart" width="700"/>
+</p>
 
-### 👥 Customers Table
-![Customers](screenshots/customers.png)
+### 📦 Suppliers
+<p align="center">
+  <img src="screenshots/All_Suppliers.png" alt="All Suppliers" width="700"/>
+  <img src="screenshots/Filter_Suppliers.png" alt="Filter Suppliers" width="700"/>
+</p>
+
+### 👥 Customers
+<p align="center">
+  <img src="screenshots/All_Customers.png" alt="All Customers" width="700"/>
+  <img src="screenshots/FilterCustomers.png" alt="Filter Customers" width="700"/>
+</p>
 
 ### 📊 Reports Dashboard
-![Reports](screenshots/reports.png)
-
----
+<p align="center">
+  <img src="screenshots/Reports.png" alt="Reports" width="700"/>
+</p>
 
 ## ✨ Features
 
